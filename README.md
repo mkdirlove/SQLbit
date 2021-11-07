@@ -1,5 +1,5 @@
 # SQL Blind Injection Tool
-A script for automatize boolean-based blind SQL injections with bits comparision. \
+A script for automatize boolean-based blind SQL injections. \
 Works with SQLite at least, supports using cookies. \
 It uses bitwise comparisons with multithreading to find cell values instead of binary search, which is more efficient.
 
